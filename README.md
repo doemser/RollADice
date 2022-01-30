@@ -1,2 +1,3 @@
 # RollADice
-Created with CodeSandbox
+
+A simple, little dice.
